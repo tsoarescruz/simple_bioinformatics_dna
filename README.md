@@ -1,7 +1,6 @@
-## Simple bioinformatics DNA App
 # Simple bioinformatics DNA App
-* Shown are the simple **bioinformatics DNA** 
 
+* Shown are the simple **bioinformatics DNA** 
 * feat create a simple simple bioinformatics dna, to studie data science.
 > Exercises to: https://youtu.be/JwSS70SZdyM 
 > https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_2_simple_bioinformatics_dna
