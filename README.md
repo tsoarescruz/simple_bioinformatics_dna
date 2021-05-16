@@ -3,19 +3,13 @@
 * Shown are the stock **closing price** and ***volume*** of Google!
 
 
-* feat create a simple stock price app, to studie data science.
+* feat create a simple simple bioinformatics dna, to studie data science.
 > Exercises to: https://youtu.be/JwSS70SZdyM 
+> https://github.com/dataprofessor/streamlit_freecodecamp/tree/main/app_2_simple_bioinformatics_dna
 
-> https://towardsdatascience.com/how-to-get-stock-data-using-python-c0de1df17e75
+* DNA Logo:
 
-
-* Closing Price:
-
-![closing_price](img/closing_price.png)
-
-* Volume Price:
-
-![volume_price](img/volume_price.png)
+![dna_logo](img/dna-logo.png)
 
 # Streamlit on Docker
 ## Run Streamlit
