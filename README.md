@@ -1,7 +1,6 @@
-## Google Stock Price
-# Simple Stock Price App
-* Shown are the stock **closing price** and ***volume*** of Google!
-
+## Simple bioinformatics DNA App
+# Simple bioinformatics DNA App
+* Shown are the simple **bioinformatics DNA** 
 
 * feat create a simple simple bioinformatics dna, to studie data science.
 > Exercises to: https://youtu.be/JwSS70SZdyM 
