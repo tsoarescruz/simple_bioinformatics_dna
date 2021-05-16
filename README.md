@@ -9,7 +9,7 @@
 
 * DNA Logo:
 
-![dna_logo](img/dna-logo.png)
+![dna_logo](img/dna-logo.jpeg)
 
 # Streamlit on Docker
 ## Run Streamlit

@@ -11,7 +11,7 @@ from PIL import Image
 # Page Title
 ####################
 
-# image = Image.open('./img/dna-logo.png')
+# image = Image.open('./img/dna-logo.jpeg')
 # st.image(image, use_collumn_width=true)
 
 st.write("""
